@@ -1,0 +1,7 @@
+Hola Mundo desde el Bloc de Notas argentino, soy un archivo de texto para la actividad final del módulo básico del
+Java, me encantaría convertirme en un Desarrollador Web mientras hago estudios de Ingeniería en Sistemas de Información.
+
+Pronto comenzaré el curso avanzado, así que éste archivo será el archivo de prueba para el punto número 8.) de la
+actividad en cuestión.
+
+            Happy coding. ~ Oscar \o/
