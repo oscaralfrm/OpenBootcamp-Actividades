@@ -1,0 +1,2 @@
+Mago{Nombre: 'Draco', Apellido: 'Voldemort', Casa: Gryffindor, Varita: 'Pluma de Fénix', Patronus: 'Fénix', Año de Cursada: 1}
+Mago{Nombre: 'Draco', Apellido: 'Potter', Casa: Ravenclaw, Varita: 'Serpiente Cornuda', Patronus: 'Fénix', Año de Cursada: 1}

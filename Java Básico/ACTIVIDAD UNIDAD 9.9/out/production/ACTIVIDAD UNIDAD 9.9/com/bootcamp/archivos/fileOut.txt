@@ -1,0 +1,2 @@
+Mago{Nombre: 'Draco', Apellido: 'Weasley', Casa: Slytherin, Varita: 'Pluma de Fénix', Patronus: 'Ciervo', Año de Cursada: 3}
+Mago{Nombre: 'Luna', Apellido: 'Granger', Casa: Hufflepuff, Varita: 'Corazón de Dragón', Patronus: 'Lobo', Año de Cursada: 4}
